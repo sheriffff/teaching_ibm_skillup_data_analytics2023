@@ -1,4 +1,4 @@
-# teach_ibm_skillup_data_analytics2023
+# Data Analytics
 Live webinars teaching **Introduction to Data Analytics** in collaboration with [IBM](https://www.ibm.com/) and [SkillUp Online](https://skillup.online/)  
 Both in Spanish, French and English
 
